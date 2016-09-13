@@ -1,0 +1,12 @@
+
+OrderBook Functionality :
+	1.  Accept and add both bid and ask orders to book.
+
+	2.  Match the orders against available bid/ask orders.
+
+	3.  When bis/ask orders match with available orders in book, then intimate trader with success message.
+	    Refer to tradeLog.txt for filled order information.
+
+	4.  Pending order information will be displayed in terminal. 
+
+	5.  OrderBook is programmed with most suitable data structures like associative containers for better latency.
